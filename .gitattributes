@@ -1,1 +1,1 @@
-*.sln    text merge=union eol=lf
+*.sln    text merge=union eol=crlf
